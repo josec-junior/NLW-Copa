@@ -16,7 +16,7 @@
 </p>
 
 <p align = "center">
-  <img src = ".github/preview.jpg" alt = "Calendário da Fase de grupos da Copa do Mundo">
+  <img src = "https://user-images.githubusercontent.com/59178745/200153808-58cad565-c05b-413f-bc11-9c9d0b29b8a5.jpg" alt = "Calendário da Fase de grupos da Copa do Mundo">
 </p>
 
  ## 🚀 Tecnologias
