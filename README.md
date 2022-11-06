@@ -39,7 +39,7 @@
 ## 🔖 Layout
 
 <p>
-  Você pode acessar o layout do projeto através <a href = "https://www.figma.com/file/sHWj4kuc2uc5vy8i88ZurU/Calend%C3%A1rio-de-Jogos-(Community)/duplicate"> DESSE LINK</a>. É necessário ter conta no <a href = "https://figma.com"> Figma </a> para acessá-lo.
+  Você pode acessar o layout do projeto através <a href = "https://www.figma.com/file/sHWj4kuc2uc5vy8i88ZurU/Calend%C3%A1rio-de-Jogos-(Community)/duplicate"> DESSE LINK</a>. É necessário ter conta no <a href = "https://figma.com"> Figma</a> para acessá-lo.
 </p>
 
 ## :memo: Licença
